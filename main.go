@@ -1,8 +1,6 @@
 package main
-import ("fmt"
-)
+import "fmt"
+
 func main(){
-	fmt.Println("hii helo")
-	s:=puppy.Bark()
-	fmt.Println(s)
+	fmt.Println("hii hello")
 }
